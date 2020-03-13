@@ -1,18 +1,18 @@
 # dcb-sound-manager
 A application used to switch engine sounds in Dream Car Builder.
 
-# INSTALL:
+# install
 
 Download the "DCB Sound Manager Installer.msi" and install the program in your DCB game folder. The default install location is shown in the installer. 
 
-# UNINSTALL:
+# uninstall
 
 Run the "DCB Sound Manager Installer.msi" and select remove.
 
-# NOTE:
+# note
 
 This installation will create a shortcut on your desktop and  program menu.
 
-# CREDIT:
+# credit
 
 All sounds are made by GreatBloodY.
